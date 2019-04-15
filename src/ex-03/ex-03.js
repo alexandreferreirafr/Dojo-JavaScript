@@ -22,6 +22,6 @@
  * @returns {number}
  */
 
-export function factorial(nb, acc = 1) {
+export function factorial(nb) {
     // Your code here
 }
