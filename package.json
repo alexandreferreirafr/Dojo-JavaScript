@@ -13,5 +13,9 @@
     "@babel/preset-env": "^7.4.3",
     "babel-jest": "^24.7.1",
     "jest": "^24.7.1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/alexandreferreirafr/Dojo-JavaScript"
   }
 }
