@@ -1,0 +1,17 @@
+{
+  "name": "dojo-javascript",
+  "version": "1.0.0",
+  "description": "Dojo Javascript | Manipiulate Strings, Arrays, Objects and Dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Alexandre Ferreira",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.7.1"
+  }
+}
